@@ -18,6 +18,10 @@ body {
     margin-top: 56px;
 }
 
+main {
+    margin-bottom: 50px;
+}
+
 h1,
 h2,
 h3,
@@ -95,7 +99,11 @@ ol li {
 /* Media queries */
 
 /* Medium devices (tablets, 768px and up) */
-
+@media screen and (min-width: 768px) {
+    #navbar-brand {
+        padding-left: 20vw;
+    }
+}
 /* Large devices (small laptops, 992px and up) */
 
 /* xl devices (large desktops, 1200px and up) */
