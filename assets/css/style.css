@@ -1,0 +1,57 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* CSS Variables */
+:root {
+    --primary-font: "Open Sans", sans-serif;
+    --secondary-font: "Nunito", sans-serif;
+    --primary-color: #7C7287;
+    --secondary-color: #9DB1BF; 
+    --highlight-color: #88C4A8; 
+    --highlight-color-light: #AFDBBD; 
+}
+
+/* Global styles */
+body {
+    font-family: var(--primary-font);
+}
+
+h1 {
+    font-family: var(--secondary-font);
+}
+
+/* test */
+#div1, #div2, #div3, #div4{
+    height: 12rem;
+    text-align: center;
+}
+#div1 {
+    background-color: var(--primary-color);
+}
+#div2 {
+    background-color: var(--secondary-color);
+}
+#div3 {
+    background-color: var(--highlight-color);
+}
+#div4 {
+    background-color: var(--highlight-color-light);
+}
+
+/* Buttons */
+
+/* Navbar */
+
+/* Header */
+
+/* Footer / contact */
+
+/* Media queries */
+
+/* Medium devices (tablets, 768px and up) */
+
+/* Large devices (small laptops, 992px and up) */
+
+/* xl devices (large desktops, 1200px and up) */
+
+/* xxl devices (larger desktops, 1400px and up) */
