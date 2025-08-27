@@ -5,10 +5,11 @@
 :root {
     --primary-font: "Open Sans", sans-serif;
     --secondary-font: "Nunito", sans-serif;
-    --primary-color: #7C7287;
-    --secondary-color: #9DB1BF; 
+    --primary-color: #5F5969;
+    --secondary-color: #7C7287; 
     --highlight-color: #88C4A8; 
     --highlight-color-light: #AFDBBD; 
+    --list-title-size: 24px;
 }
 
 /* Global styles */
@@ -18,9 +19,24 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: var(--secondary-font);
+}
+
+h1,
+h2 {
     color: var(--primary-color);
+}
+
+h2 {
+    margin-top: 56px;
+    padding-top: 16px;
+}
+
+h3 {
+
+    color: var(--secondary-color);
 }
 
 
@@ -32,15 +48,40 @@ h2 {
     background-color: var(--primary-color);
 }
 
-#navbar *{
+#navbar * {
     color: white;
 }
+
+#navbar button{
+    color: red;
+}
+
 /* Header */
+
+/* What is Safeguarding section */
+#whatissafeguarding h3 {
+    font-size: var(--list-title-size);
+}
+
+/* Signs to Watch For section */
+#signstowatchfor h3 {
+    font-size: var(--list-title-size);
+}
+
+/* Action Steps section */
+#actionsteps h3 {
+    font-size: var(--list-title-size);
+}
 
 /* Footer / contact */
 
-#footer *{
+#footer {
     background-color: var(--primary-color);
+    width: 100vw;
+    margin-left: 0;
+}
+
+#footer *{
     color: white;
 }
 
