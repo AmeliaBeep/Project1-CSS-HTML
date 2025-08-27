@@ -16,35 +16,28 @@ body {
     font-family: var(--primary-font);
 }
 
-h1 {
+h1,
+h2 {
     font-family: var(--secondary-font);
+    color: var(--primary-color);
 }
 
-/* test */
-#div1, #div2, #div3, #div4{
-    height: 12rem;
-    text-align: center;
-}
-#div1 {
-    background-color: var(--primary-color);
-}
-#div2 {
-    background-color: var(--secondary-color);
-}
-#div3 {
-    background-color: var(--highlight-color);
-}
-#div4 {
-    background-color: var(--highlight-color-light);
-}
 
 /* Buttons */
 
 /* Navbar */
 
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar *{
+    color: white;
+}
 /* Header */
 
 /* Footer / contact */
+
 
 /* Media queries */
 
