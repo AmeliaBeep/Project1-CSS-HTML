@@ -16,7 +16,7 @@
 
 <body class="d-flex flex-column min-vh-100">
     <!-- Navigation -->
-    <nav id="navbar" class="navbar navbar-expand-lg">
+    <nav id="navbar" class="navbar fixed-top navbar-expand-lg">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Safeguarding Hub</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -26,13 +26,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">What is Safeguarding?</a>
+                        <a class="nav-link" href="#whatissafeguarding">What is Safeguarding?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Signs to Watch for</a>
+                        <a class="nav-link" href="#signstowatchfor">Signs to Watch for</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Action Steps</a>
+                        <a class="nav-link" href="#actionsteps">Action Steps</a>
                     </li>
                 </ul>
             </div>
@@ -41,11 +41,8 @@
     <!-- Header -->
     <header id="header" class="container">
         <div class="row justify-content-center py-4">
+            <h1>Header section</h1>
             <div class="col-12 col-lg-6">
-                <img src="assets/images/headers/header-image-1.jpg" class="img-fluid" alt="image of two individuals holding hands">
-            </div>
-            <div class="col-12 col-lg-6">
-                <h1>Header section</h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -54,14 +51,17 @@
                     non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
             </div>
+            <div class="col-12 col-lg-6">
+                <img src="assets/images/headers/header-image-1.jpg" class="img-fluid" alt="image of two individuals holding hands">
+            </div>
         </div>
     </header>
 
     <main>
         <section class="container">
             <div class="row justify-content-center">
-                <div>
-                    <h2>What is Safeguarding?”</h2>
+                <div id="whatissafeguarding" class="pt-4">
+                    <h2> What is Safeguarding?</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                         laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
@@ -72,7 +72,7 @@
         </section>
         <section class="container">
             <div class="row justify-content-center">
-                <div>
+                <div id="signstowatchfor" class="pt-4">
                     <h2>Signs to Watch For</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -84,7 +84,7 @@
         </section>
         <section class="container">
             <div class="row justify-content-center">
-                <div>
+                <div id="actionsteps" class="pt-4">
                     <h2>Action Steps</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -97,7 +97,7 @@
     </main>
 
     <!-- Footer -->
-    <footer class="mt-auto">
+    <footer id="footer" class="mt-auto">
         <section class="container">
             <div class="row justify-content-center">
                 <div>
