@@ -69,7 +69,8 @@ ol li {
 }
 
 /* Action Steps section */
-#actionsteps ol {
+#actionsteps ol,
+#actionsteps ol h3 {
     font-size: var(--list-title-size);
 }
 
