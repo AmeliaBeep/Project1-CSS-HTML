@@ -7,8 +7,6 @@
     --secondary-font: "Nunito", sans-serif;
     --primary-color: #5F5969;
     --secondary-color: #7C7287; 
-    --highlight-color: #88C4A8; 
-    --highlight-color-light: #AFDBBD; 
     --list-title-size: 24px;
 }
 
@@ -45,9 +43,6 @@ ol li {
     color: var(--secondary-color);
 }
 
-
-/* Buttons */
-
 /* Navbar */
 
 #navbar {
@@ -62,8 +57,6 @@ ol li {
 #navbar .navbar-brand {
     font-weight: 550;
 }
-
-/* Header */
 
 /* What is Safeguarding section */
 #whatissafeguarding h3 {
@@ -80,6 +73,7 @@ ol li {
 #actionsteps li {
     font-size: var(--list-title-size);
 }
+
 #actionsteps ol p {
     padding-left: 2px;
 }
@@ -104,8 +98,3 @@ ol li {
         padding-left: 20vw;
     }
 }
-/* Large devices (small laptops, 992px and up) */
-
-/* xl devices (large desktops, 1200px and up) */
-
-/* xxl devices (larger desktops, 1400px and up) */
