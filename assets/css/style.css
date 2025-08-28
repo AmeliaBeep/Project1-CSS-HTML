@@ -69,13 +69,15 @@ ol li {
 }
 
 /* Action Steps section */
-#actionsteps h3,
-#actionsteps li {
+#actionsteps ol {
     font-size: var(--list-title-size);
 }
 
 #actionsteps ol p {
     padding-left: 2px;
+    color: #212529;
+    font-size: 1rem;
+    font-family: var(--primary-font);
 }
 
 /* Footer / contact */
