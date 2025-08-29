@@ -99,4 +99,8 @@ ol li {
     #navbar-brand {
         padding-left: 20vw;
     }
+
+    h2 {
+        padding-top: 4rem;
+    }
 }
