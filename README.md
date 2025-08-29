@@ -11,14 +11,12 @@ Introduces users to safeguarding principles, how to spot the signs and how to ac
 Here the navbar has burger menu containing the site links and all contents stacked vertically.
 
 ![Website as rendered on a device with a medium screen](assets/images/readme/medium-device.png "Medium device size has navbar ")
-The navbar has expanded to show the contents now along the bar.
-
 ![Website as rendered on a device with a large screen](assets/images/readme/large-device.png "Large device size")
-Large screens and up have the header image and text side by side.
+On screens sizes medium and above the navbar has expanded to show the contents now along the bar.
 
 ![Website as rendered on a device with a XL screen](assets/images/readme/xl-device.png "XL device size")
 ![Website as rendered on a device with a XXL screen](assets/images/readme/xxl-device.png "XXL device device size")
-XL and XXL screen sizes have the header image take up more room to keep it and the text having similar heights.
+XL and XXL screen sizes have the side by side with the text.
 
 ## The navbar menu
 ![Website as rendered on a device with a small screen with the navbar closed](assets/images/readme/small-device.png "Small device size navbar closed")
