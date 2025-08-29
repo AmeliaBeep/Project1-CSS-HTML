@@ -11,7 +11,7 @@ Introduces users to safeguarding principles, how to spot the signs and how to ac
 Here the navbar has burger menu containing the site links and all contents stacked vertically.
 
 ![Website as rendered on a device with a medium screen](assets/images/readme/medium-device.png "Medium device size has navbar ")
-The navbar has expanded to show the contents now along the bar. From this screen size the navbar elements have padding to make them more central and alined with the page content.
+The navbar has expanded to show the contents now along the bar.
 
 ![Website as rendered on a device with a large screen](assets/images/readme/large-device.png "Large device size")
 Large screens and up have the header image and text side by side.
@@ -31,10 +31,11 @@ The navbar options take the user to the specific headings on the page without co
 
 ## Other user centric design elements
 
-![Website as rendered on a device with a small screen with the navbar closed](assets/images/readme/small-device-design.png "Small device size navbar closed")
+![Website as rendered on a device with a small screen with the navbar closed](assets/images/readme/small-device-navbar-outcome.png "Small device size navbar closed")
 
 - Use of colour and weights to differentiate headings and subheadings
 - A font choice that felt professional but welcoming
+- For most screen sizes the navbar elements have padding to make them more central and alined with the page content.
 
 # Deployment procedure
 Github pages automatically redploys site updates upon pushes to the remte repository
