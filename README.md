@@ -8,6 +8,7 @@ Introduces users to safeguarding principles, how to spot the signs and how to ac
 ## The website renders responsively depending on screen size
 
 ![Website as rendered on a device with a small screen](assets/images/readme/small-device.png "Small device size")
+![Website as rendered on a device with a small screen showing information cards](assets/images/readme/card-small-device.png "Small device size showing information cards")
 
 Here the navbar has burger menu containing the site links and all website content is stacked vertically.
 
@@ -15,6 +16,10 @@ Here the navbar has burger menu containing the site links and all website conten
 ![Website as rendered on a device with a large screen](assets/images/readme/large-device.png "Large device size")
 
 On screens sizes medium and above the navbar has expanded to show the contents now along the bar.
+
+![Website as rendered on a device with a large screen](assets/images/readme/card-large-device.png "Large device size showing information cards")
+
+The Signs to Watch For cards are now side by side for large screen sizes and above.
 
 ![Website as rendered on a device with a XL screen](assets/images/readme/xl-device.png "XL device size")
 ![Website as rendered on a device with a XXL screen](assets/images/readme/xxl-device.png "XXL device device size")
@@ -24,17 +29,9 @@ XL and XXL screen sizes now have the header image side by side with the text ins
 ## The navbar menu
 ![Website as rendered on a device with a small screen with the navbar closed](assets/images/readme/small-device.png "Small device size navbar closed")
 ![Website as rendered on a device with a small screen with the navbar open](assets/images/readme/small-device-open.png "Small device size with navbar open")
-![Website as rendered on a device with a small screen with the navbar closed and having been sent to a section heading](assets/images/readme/small-device-navbar-outcome.png "Small device size with navbar closed after using one of the navigation links")
+![Website as rendered on a device with a small screen with the navbar closed and having been sent to a section heading](assets/images/readme/card-small-device.png "Small device size with navbar closed after using one of the navigation links")
 
 The navbar options take the user to the specific headings on the page without covering them.
-
-## Other user centric design elements
-
-![Website as rendered on a device with a small screen with the navbar closed](assets/images/readme/small-device-navbar-outcome.png "Small device size navbar closed")
-
-- Use of colour and weights to differentiate headings and subheadings
-- A font choice that felt professional but welcoming
-- For most screen sizes the navbar elements have padding to make them more central and alined with the page content.
 
 # Deployment procedure
 Github pages automatically redploys site updates upon pushes to the remte repository.
