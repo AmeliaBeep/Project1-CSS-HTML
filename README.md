@@ -40,7 +40,7 @@ The navbar options take the user to the specific headings on the page without co
 Github pages automatically redploys site updates upon pushes to the remte repository
 
 # AI usage
-I mainly used AI to generate website name suggestions and produce the text to populate the website sections. Additionally I had it generate some of the HTML paragraph structure for the text it generated. It did somewhat help but add unneccesary tags I then had to remove.
+I mainly used AI to generate website name suggestions and produce the text to populate the website sections. Additionally I had it generate some of the HTML paragraph structure for the text it generated. It did somewhat help but added unneccesary tags I then had to remove.
 
 I did not use to it fix or optimise any code for this project, because I did not feel the need to for this particular project.
 
