@@ -1,5 +1,5 @@
 # Application Purpose and user value
-A one page website demonstrate an understanding of HTML and CSS principles.
+A one page website to demonstrate an understanding of HTML and CSS principles.
 
 Introduces users to safeguarding principles, how to spot the signs and how to act on concerns.
 
@@ -34,7 +34,7 @@ XL and XXL screen sizes now have the header image side by side with the text ins
 The navbar options take the user to the specific headings on the page without covering them.
 
 # Deployment procedure
-Github pages automatically redploys site updates upon pushes to the remte repository.
+Github pages automatically redploys site updates upon pushes to the remote repository.
 
 # AI usage
 I mainly used AI to generate website name suggestions and produce the text to populate the website sections. Additionally I had it generate some of the HTML paragraph structure for the text it generated. It did somewhat help but added unneccesary tags I then had to remove.
