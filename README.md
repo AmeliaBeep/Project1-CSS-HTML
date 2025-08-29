@@ -43,4 +43,6 @@ I did not use to it fix or optimise any code for this project, because I did not
 
 # Citations
 - Favicon is [moniruldislam's S icon](https://www.freepik.com/icon/letter-s_9083014#fromView=resource_detail&position=7)
-- Hand holding image copied from [North East London's page on safeguarding](https://northeastlondon.icb.nhs.uk/about-us/about-nhs-north-east-london/our-statutory-duties/safeguarding/what-is-safeguarding/)
+- 'header-image.jpg' copied from [North East London's 'What is Safeguarding' page](https://northeastlondon.icb.nhs.uk/about-us/about-nhs-north-east-london/our-statutory-duties/safeguarding/what-is-safeguarding/)
+- 'adults.jpg' copied from [North East London's 'Mental Capacity Act and Deprivation of Liberty Safeguards' page](https://northeastlondon.icb.nhs.uk/about-us/about-nhs-north-east-london/our-statutory-duties/safeguarding/mental-capacity-act-and-deprivation-of-liberty-safeguards/)
+- 'child.jpg' copied from [Living on the Spectrum's 'How can you support kids with ADHD to learn? Parents said these 3 things help'](https://www.livingonthespectrum.com/health-and-wellbeing/how-can-you-support-kids-with-adhd-to-learn-parents-said-these-3-things-help/)
